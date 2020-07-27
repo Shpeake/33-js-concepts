@@ -78,6 +78,9 @@ All the translations for this repo will be listed below:
 31. **[Design Patterns](#31-design-patterns)**
 32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
 33. **[Clean Code](#33-clean-code)**
+34. Functional Programming
+35. Destructuring Assignment
+36. ES2020 New Features
 
 
 ---
@@ -1081,5 +1084,12 @@ All the translations for this repo will be listed below:
 ### Videos
 *  🎥 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 *  🎥 [Clean Code: Functions(Part 1) - Beau teaches](https://www.youtube.com/watch?v=RR_dQ4sBSBM)
+
+ **[⬆ Back to Top](#table-of-contents)**
+
+---
+
+## 34 Destructuring Assignment
+## 36 ES2020 New Features
 
  **[⬆ Back to Top](#table-of-contents)**
