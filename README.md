@@ -48,8 +48,8 @@ All the translations for this repo will be listed below:
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
 3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
-4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
-5. **[== vs === vs typeof](#5--vs--vs-typeof)**
+4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)** -- Type Coercion
+5. **[== vs === vs typeof](#5--vs--vs-typeof)**. -- Equality Comparison and ‘typeof’ Operator
 6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
 7. **[Expression vs Statement](#7-expression-vs-statement)**
 8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
@@ -72,7 +72,8 @@ All the translations for this repo will be listed below:
 25. **[Promises](#25-promises)**
 26. **[async/await](#26-asyncawait)**
 27. **[Data Structures](#27-data-structures)**
-28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
+27a. ES6 Arrow Functions
+28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)** -- Time Complexity
 29. **[Algorithms](#29-algorithms)**
 30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
 31. **[Design Patterns](#31-design-patterns)**
@@ -81,7 +82,6 @@ All the translations for this repo will be listed below:
 34. Functional Programming
 35. Destructuring Assignment
 36. ES2020 New Features
-
 
 ---
 
