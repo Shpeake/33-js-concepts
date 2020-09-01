@@ -84,6 +84,9 @@ All the translations for this repo will be listed below:
 - [ ] 35. **Destructuring Assignment**
 - [ ] 36. **ES2020 New Features**
 
+Do this list when done:
+https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1
+
 ---
 
 ## 1. Call Stack
