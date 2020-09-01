@@ -45,6 +45,7 @@ All the translations for this repo will be listed below:
 
 ## Table of Contents
 
+Source: https://medium.com/better-programming/36-javascript-concepts-you-need-to-master-to-become-an-expert-c6630ac41bf4
 - [x] 1. **[Call Stack](#1-call-stack)**
 - [x] 2. **[Primitive Types](#2-primitive-types)**
 - [x] 3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
